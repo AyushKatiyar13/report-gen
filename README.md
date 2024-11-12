@@ -142,5 +142,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Folder Structure**: Explains the directory and file organization of the project.
 - **Technologies Used**: Lists the technologies used in the project.
 - **Contributing**: Provides steps for contributing to the repository.
-
-You can replace placeholders like `https://github.com/AyushKatiyar13/report-gen.git` with actual information.
