@@ -7,13 +7,13 @@ This is a Personal Finance Management application designed to help users track t
 
 ## Table of Contents
 
-1. [Project Overview](#project-overview)
-2. [Installation Instructions](#installation-instructions)
-3. [Usage Instructions](#usage-instructions)
-4. [Folder Structure](#folder-structure)
-5. [Technologies Used](#technologies-used)
-6. [Contributing](#contributing)
-7. [License](#license)
+1. project-overview
+2. installation-instructions
+3. usage-instructions
+4. folder-structure
+5. technologies-used
+6. contributing
+7. License
 
 ## Project Overview
 
