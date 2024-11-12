@@ -1,0 +1,58 @@
+.MuiFormControl-root.MuiTextField-root.taLogin.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  width: 75%;
+  margin: auto auto 5% 5%;
+}
+
+.btnlogin {
+  margin: auto;
+  margin-top: 5rem;
+  font-weight: 600;
+  font-size: 0.8em;
+  border-radius: 2rem;
+  color: white;
+  width: 45%;
+}
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.btnsignup.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  margin: auto;
+  margin-top: 5rem;
+  font-weight: 600;
+  font-size: 0.8em;
+  border-radius: 2rem;
+  color: white;
+  width: 45%;
+}
+
+.cusotmerLogin {
+  margin: 0px;
+  padding: 25px;
+  align-content: center;
+}
+
+.colloginlabel {
+  margin-bottom: 3rem;
+}
+.gridField2 {
+  margin-top: 2rem;
+}
+
+.MuiFormControl-root.MuiTextField-root.emailSignupField.css-1u3bzj6-MuiFormControl-root-MuiTextField-root,
+.MuiFormControl-root.MuiTextField-root.passwordSignupField.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+  margin-left: 1rem;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiCard-root.loginformdiv1.css-bhp9pd-MuiPaper-root-MuiCard-root {
+  border-radius: 4rem;
+  width: 40%;
+  height: revert;
+  margin: auto;
+  margin-top: 12rem;
+  margin-bottom: 22rem;
+  outline: none;
+  -moz-box-shadow: 3px 3px 3px #57606f;
+  -webkit-box-shadow: 3px 3px 3px #57606f;
+  box-shadow: 3px 3px 3px #57606f;
+}
+
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.btnlogin.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  margin: auto auto 5% 5%;
+}

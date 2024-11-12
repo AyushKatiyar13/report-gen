@@ -1,0 +1,56 @@
+.tableContainerDiv{
+    width: 1200px;
+    height: auto;
+    margin: auto;   
+    display: flex;
+    /* WIDTH and HEIGHT are required */
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+td.MuiTableCell-root.MuiTableCell-footer.MuiTableCell-sizeMedium.MuiTablePagination-root.css-fikjyc-MuiTableCell-root-MuiTablePagination-root {
+    overflow: hidden;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    height: 21rem;
+    max-width: 58rem;
+}
+.specificReportInput {
+    display: flex;
+    justify-content: center;
+}
+.boxContainer{
+    width: 300px;
+    height: 42px;
+    border: 4px solid #2980b9;
+    padding:0px 10px;
+    border-radius: 50px;
+    margin-bottom: 10px;
+}
+.elementsContainer{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+.search{
+    border: none;
+    width: 100%;
+    height: 100%;
+    padding: 0px 5px;
+    border-radius: 50px;
+    font-size: 18px;
+    font-family: "Nunito";
+    color: #424242;
+    font-weight: 500;
+}
+.search:focus{
+    outline: none;
+}
+
+.searchTd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+}

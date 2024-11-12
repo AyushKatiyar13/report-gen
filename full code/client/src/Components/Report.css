@@ -1,0 +1,128 @@
+.gridField {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.table td, .table th {
+    padding: 0.25rem;
+}
+.MuiBox-root.css-1gsv261 {
+    margin: auto;
+    width: 13rem;
+    margin-top: 5rem;
+}
+
+.tocDialog .MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    height: 37rem;
+    max-width: 85rem;
+}
+
+.gridFieldTable {
+    /* max-width: 91.5rem; */
+    /* overflow-x: scroll; */
+}
+
+.MuiFormControl-root.css-1869usk-MuiFormControl-root {
+    min-width: 229px !important;
+    margin: 0;
+}
+
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-6hp17o-MuiList-root-MuiMenu-list {
+    max-height: 18rem;
+}
+
+.tocField {
+    width: fit-content;
+    margin-left: 12.75rem;
+}
+
+.reportFieldsContainer {
+    border: 2px solid grey;
+    margin: 22px;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+
+.tocTable {
+    max-width: 65rem;
+    margin: auto;
+}
+
+.MuiFormControl-root.MuiTextField-root.toc4Field.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    min-width: 20rem;
+    margin-top: 1rem;
+}
+
+.MuiFormControl-root.MuiTextField-root.toc3Field.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    min-width: 20rem;
+}
+
+.MuiFormControl-root.MuiTextField-root.toc2Field.css-1u3bzj6-MuiFormControl-root-MuiTextField-root {
+    min-width: 20rem;
+}
+
+
+input[type="number"] {
+    width: 7rem;
+}
+
+.css-vj1n65-MuiGrid-root {
+    margin-bottom: 15px;
+}
+
+.css-b62m3t-container {
+    width: 21rem;
+    margin: auto;
+}
+
+.css-1s2u09g-control {
+    height: 100%;
+}
+
+.css-3iigni-container {
+    width: 21rem;
+}
+
+.toc{
+    margin-left: 15px;
+}
+
+button.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButtonBase-root.tocButton.css-sghohy-MuiButtonBase-root-MuiButton-root {
+    width: 26rem;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: green;
+}
+
+.tocRow {
+    display: flex;
+    margin: 10px 0px;
+}
+
+.tocData {
+    text-align: left;
+    display: flex;
+}
+
+.MuiGrid-root.gridFieldTable.css-vj1n65-MuiGrid-root {	
+    /* display: grid;	 */
+    grid-template-columns: auto auto;	
+    grid-row-start: 0;	
+    grid-auto-rows: 228px;	
+    grid-auto-columns: auto;	
+    align-items: center;	
+    justify-content: center;	
+}	
+.splitTable {	
+    display: inline-table;	
+    margin-left: auto;	
+    min-width: 40rem !important;	
+    margin-right: 1rem;	
+}
+
+svg.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root {
+    margin-left: 3rem;
+    cursor: pointer;
+}
