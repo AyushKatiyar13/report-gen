@@ -30,17 +30,14 @@ This application allows users to:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
+   https://github.com/AyushKatiyar13/report-gen.git
    cd your-repository-name
-   ```
+
 
 2. Create a virtual environment:
 
-   ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
 
 3. Install dependencies:
 
@@ -56,29 +53,27 @@ This application allows users to:
 
 5. Run the backend server:
 
-   ```bash
    python backend/manage.py runserver
-   ```
+   
 
 ### Frontend Setup
 
 1. Navigate to the `client` directory:
 
-   ```bash
    cd client
-   ```
+
 
 2. Install frontend dependencies:
 
-   ```bash
+ 
    npm install
-   ```
+
 
 3. Start the frontend development server:
 
-   ```bash
+  
    npm start
-   ```
+
 
 Your backend will be running on `http://localhost:8000` and the frontend on `http://localhost:3000`.
 
